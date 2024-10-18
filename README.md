@@ -2,7 +2,7 @@
 
 Command elite units on an 11x11 grid where chess meets modern warfare. Master advanced tactics, exploit unique unit abilities, and shape your path to victory or defeat in this thrilling strategic challenge. Are you ready to conquer the strategic frontiers?
 
-> This is a dart/flutter implementation of [battlegrid](https://github.com/LordGhostX/battlegrid).
+> This is a dart/flutter implementation of [battlegrid](https://github.com/SkyDart-Solutions/BattleGrid?tab=readme-ov-file).
 >
 > Version is hacky but works and serves only as POC
 
@@ -74,7 +74,7 @@ Game units and rules: <https://lordghostx.github.io/battlegrid/#game-units>
 
 ```shell
 # Clone the project
-git clone https://github.com/Mastersam07/battlegrid
+git clone https://github.com/SkyDart-Solutions/BattleGrid
 
 # Go to the project directory
 cd battlegrid
@@ -87,4 +87,4 @@ flutter run
 
 Contributions are always welcome!
 
-If you have new features to introduce or bugs to squash, kindly submit a [Pull Request (PR)](https://github.com/Mastersam07/battlegrid) to make your mark. Your participation is highly appreciated.
+If you have new features to introduce or bugs to squash, kindly submit a [Pull Request (PR)](https://github.com/SkyDart-Solutions/BattleGrid?tab=readme-ov-file) to make your mark. Your participation is highly appreciated.
